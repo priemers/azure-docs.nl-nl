@@ -149,7 +149,7 @@ Als uw connectiviteitsprovider niet wordt vermeld in de vorige secties, kunt u a
 ## <a name="c1partners"></a>Connectiviteit via additionele serviceproviders
 | **Locatie** | **Exchange** | **Connectiviteitsproviders** |
 | --- | --- | --- |
-| **Amsterdam** | Equinix, Telecity | Eurofiber, Fastweb S.p.A, Nianet, Telia |
+| **Amsterdam** | Equinix, Telecity | DataWeb, Eurofiber, Fastweb S.p.A, Nianet, Telia |
 | **Chicago** | Equinix | Lightower, Windstream |
 | **Dallas** | Equinix, Megaport | C3ntro Telecom, Cox Business, Data Foundry, Transtelco |
 | **Frankfurt** | Telecity | Nianet, QSC AG |
